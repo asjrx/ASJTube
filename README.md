@@ -71,9 +71,8 @@ Saving works from four places: the button in the row under the video, a long pre
 <img src="screenshots/clear.png" width="30%" align="right" alt="Clear Mode on a Short">
 
 - **Lyrics** for the song a video plays
-- **Spoken translation** — dub a clip into another language, on the device
 - **Clear Mode** — the whole interface out of the way on a Short
-- **Copy text** from any label with a long press
+- **Copy and translate any text** — a title, a description, a comment or one of its replies, from a long press or from the comment's own menu
 - **Hide Shorts**, **hide the create button**, **open the app on Shorts**
 - **Require Face ID to open**
 - **Open links in Safari** instead of the in-app browser
@@ -108,7 +107,7 @@ One link: on an iPhone with TrollStore it hands the file straight over, anywhere
 
 ### Not jailbroken, no TrollStore
 
-Download `ASJTube-1.0_21.32.4.ipa` from [Releases](../../releases) and sign it with Sideloadly or eSign — or take `ASJTube-1.0_21.32.4.dylib` and inject it into your own copy of YouTube.
+Download the **IPA** from [Releases](../../releases) and sign it with Sideloadly or eSign — or take the **dylib** and inject it into your own copy of YouTube.
 
 > The dylib is self-contained and does not need Cydia Substrate, so any injector works.
 > YouTube itself is not distributed here — bring your own copy.
@@ -117,7 +116,7 @@ Download `ASJTube-1.0_21.32.4.ipa` from [Releases](../../releases) and sign it w
 
 ## Notes
 
-- Built against YouTube **21.32.4**
+- Works with the current YouTube and with older versions
 - arm64 and arm64e
 - Screenshots are from a real install, not mockups
 
