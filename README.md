@@ -11,8 +11,10 @@
 Add the source in Sileo, Zebra, Cydia or Installer:
 
 ```
-https://asjrx.github.io/
+https://apt.ahmadrashed.com
 ```
+
+Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign · `https://altstore.ahmadrashed.com` in AltStore or SideStore
 
 [**ASJ Tweaks on Telegram**](https://t.me/ASJTweaks) — new tweaks and update notes
 
@@ -101,13 +103,15 @@ Sileo, Zebra and Cydia pick the right architecture on their own; roothide is a s
 
 Fully supported, with a build of its own that keeps YouTube's own entitlements and its app extensions intact.
 
-**[asjrx.github.io/trollstore/tube](https://asjrx.github.io/trollstore/tube)** — iOS 14.0–16.6.1, and 17.0 on some devices.
+**[ahmadrashed.com/trollstore/tube](https://ahmadrashed.com/trollstore/tube)** — iOS 14.0–16.6.1, and 17.0 on some devices.
 
 One link: on an iPhone with TrollStore it hands the file straight over, anywhere else it just downloads.
 
 ### Not jailbroken, no TrollStore
 
-Download the **IPA** from [Releases](../../releases) and sign it with Sideloadly or eSign — or take the **dylib** and inject it into your own copy of YouTube.
+Add `https://source.ahmadrashed.com` in ESign, Feather or KSign and install it from there — that source also has the full build, with YouTube's own extensions. In AltStore or SideStore, add `https://altstore.ahmadrashed.com`.
+
+Or download the **IPA** from [Releases](../../releases) and sign it with Sideloadly or ESign — the one with the newest YouTube needs iOS 17 or newer, `_21.33.6` is for iOS 16 — or take the **dylib** and inject it into your own copy of YouTube.
 
 > The dylib is self-contained and does not need Cydia Substrate, so any injector works.
 > YouTube itself is not distributed here — bring your own copy.
@@ -120,4 +124,4 @@ Download the **IPA** from [Releases](../../releases) and sign it with Sideloadly
 - arm64 and arm64e
 - Screenshots are from a real install, not mockups
 
-<div align="center"><sub>by <a href="https://github.com/asjrx">ASJRX</a></sub></div>
+<div align="center"><sub>by <a href="https://ahmadrashed.com">Ahmad Rashed</a></sub></div>
