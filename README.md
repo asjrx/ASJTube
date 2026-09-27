@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="icon/icon.png" width="110" alt="ASJTube">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icon/icon-dark.png">
+  <img src="icon/icon.png" width="110" alt="ASJTube">
+</picture>
 
 # ASJTube
 
