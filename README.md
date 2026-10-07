@@ -25,17 +25,22 @@ Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign
 
 </div>
 
+<p align="center">
+  <img src="screenshots/1-4k.webp" width="32%" alt="Save any video, up to 4K">
+  <img src="screenshots/2-music.webp" width="32%" alt="YouTube Music, built in">
+  <img src="screenshots/3-playlist.webp" width="32%" alt="Whole playlists, in one go">
+</p>
+<p align="center">
+  <img src="screenshots/4-library.webp" width="32%" alt="Your own library">
+  <img src="screenshots/5-shorts.webp" width="32%" alt="Shorts, saved your way">
+  <img src="screenshots/6-clear.webp" width="32%" alt="Nothing but the video">
+</p>
+
 ---
 
 ## Where it lives
 
 One place: an **ASJTube** tab in YouTube's own bar. The settings, the library and everything else are behind it — no floating buttons, no gestures to learn.
-
-<p align="center">
-  <img src="screenshots/settings.png" width="31%" alt="The ASJTube tab">
-  <img src="screenshots/library.png" width="31%" alt="My Library">
-  <img src="screenshots/quality.png" width="31%" alt="Choosing a quality to save">
-</p>
 
 Saving works from four places: the button in the row under the video, a long press on the player, the button on a Short, and YouTube's own Download row.
 
@@ -44,17 +49,13 @@ Saving works from four places: the button in the row under the video, a long pre
 ## Features
 
 ### Downloads
-<img src="screenshots/quality.png" width="30%" align="right" alt="The quality sheet">
 
 - **Save any video or Short** — every rung the video has, with the size before you commit
 - **My Library** — a feed of what you saved, laid out like Home
 - **Playlists**, **Watch later** and a **storage bar**
 - Background playback and Picture in Picture for your own files
 
-<br clear="right">
-
 ### Playback
-<img src="screenshots/player.png" width="30%" align="right" alt="The library player">
 
 - **Watch videos in high quality** — pinned to the best rendition the video has
 - **Background Playback** — audio keeps going when you leave the app or lock the screen
@@ -62,20 +63,14 @@ Saving works from four places: the button in the row under the video, a long pre
 - **Autoplay when a video finishes**, and no suggested grid at the end
 - **Progress bar in Shorts**
 
-<br clear="right">
-
 ### Ads
-<img src="screenshots/shorts.png" width="30%" align="right" alt="The save button on a Short">
 
 - **Remove Ads** — feed, search, Shorts and the player alike
 - An ad is refused at the model, before a card is ever built, so there is no flash and no gap
 - Non-skippable breaks are seeked past; skippable ones are skipped the moment the app allows it
 - The Premium prompts, the upsell panels and the in-app surveys are all declined
 
-<br clear="right">
-
 ### Extras
-<img src="screenshots/clear.png" width="30%" align="right" alt="Clear Mode on a Short">
 
 - **Lyrics** for the song a video plays
 - **Clear Mode** — the whole interface out of the way on a Short
@@ -83,8 +78,6 @@ Saving works from four places: the button in the row under the video, a long pre
 - **Hide Shorts**, **hide the create button**, **open the app on Shorts**
 - **Require Face ID to open**
 - **Open links in Safari** instead of the in-app browser
-
-<br clear="right">
 
 **79 languages** — the panel follows YouTube's own language, so an Arabic install gets Arabic screens without setting anything. Right-to-left languages mirror with the text.
 
@@ -127,6 +120,6 @@ Or download the **IPA** from [Releases](../../releases) and sign it with Sideloa
 
 - Works with the current YouTube and with older versions
 - arm64 and arm64e
-- Screenshots are from a real install, not mockups
+- The screens in the pictures are from a real install
 
 <div align="center"><sub>by <a href="https://ahmadrashed.com">Ahmad Rashed</a></sub></div>
