@@ -26,14 +26,16 @@ Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign
 </div>
 
 <p align="center">
-  <img src="screenshots/1-4k.webp" width="32%" alt="Save any video, up to 4K">
-  <img src="screenshots/2-music.webp" width="32%" alt="YouTube Music, built in">
-  <img src="screenshots/3-playlist.webp" width="32%" alt="Whole playlists, in one go">
+  <img src="screenshots/1-library.webp" width="24%" alt="Your own library">
+  <img src="screenshots/2-glass.webp" width="24%" alt="The new glass look">
+  <img src="screenshots/3-music.webp" width="24%" alt="YouTube Music, built in">
+  <img src="screenshots/4-playlist.webp" width="24%" alt="Whole playlists, in one go">
 </p>
 <p align="center">
-  <img src="screenshots/4-library.webp" width="32%" alt="Your own library">
-  <img src="screenshots/5-shorts.webp" width="32%" alt="Shorts, saved your way">
-  <img src="screenshots/6-clear.webp" width="32%" alt="Nothing but the video">
+  <img src="screenshots/5-player.webp" width="24%" alt="Keeps playing, screen off">
+  <img src="screenshots/6-sleep.webp" width="24%" alt="Fall asleep to it">
+  <img src="screenshots/7-search.webp" width="24%" alt="Search, no Shorts">
+  <img src="screenshots/8-settings.webp" width="24%" alt="All in one tab">
 </p>
 
 ---
